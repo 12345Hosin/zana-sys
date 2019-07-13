@@ -3547,4 +3547,4 @@ message.channel.awaitMessages(filte, { max: 1, time: 15000, errors: ['time'] })
         
   }
 });
-client.login('NTk3MDMzNjU5NDMzNzQ2NDMy.XSCNtQ.vHReRe3vmIO-TofjVYxTW9ptwCI')
+client.login('NTk3MDMzNjU5NDMzNzQ2NDMy.XSnIyQ.PfqitQKNwNkW7Hr8qs51JfEc_78')
